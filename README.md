@@ -1,4 +1,4 @@
-# xdefi.app
+# xdefi.app 
 
 Swap (and future bridge) interface for Nuwa's x402x execution engine, built with
 React, Vite, TypeScript, Tailwind CSS and shadcn/ui. Wallet connection is
